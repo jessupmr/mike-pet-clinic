@@ -14,7 +14,7 @@
     </parent>
     <groupId>us.jessup</groupId>
     <artifactId>mike-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>mike-pet-clinic</name>
     <description>Mike's Pet Clinic Project</description>
 
@@ -45,7 +45,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:jessupmr/mike-pet-clinic.git</developerConnection>
-      <tag>mike-pet-clinic-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
