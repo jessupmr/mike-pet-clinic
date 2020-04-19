@@ -2,6 +2,8 @@
 ######################
 # Project Specific
 ######################
+/pet-clinic-data/target/
+/pet-clinic-web/target/
 /build/www/**
 /src/test/javascript/coverage/
 /src/test/javascript/PhantomJS*/
